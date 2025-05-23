@@ -1,4 +1,4 @@
-## Minimal exam statistics canister with basic functions
+## Minimal Exam Statistics Canister with Basic Functions
 This is my first ever created canister using Rust ic-cdk.
 
 Commands for running locally:
@@ -11,3 +11,4 @@ dfx start --background
 # Deploys your canisters to the replica and generates your candid interface
 dfx deploy
 ```
+Then choose the second link provided in the terminal.
